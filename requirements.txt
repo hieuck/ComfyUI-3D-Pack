@@ -52,3 +52,8 @@ packaging
 OmegaConf
 pyhocon
 iopath
+
+# unknown
+kiui
+torch-scatter
+git+https://github.com/NVlabs/nvdiffrast.git
